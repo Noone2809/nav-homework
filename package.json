@@ -1,0 +1,15 @@
+{
+  "name": "nav-homework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "live-server",
+    "compile": "sass  scss/styles.scss css/styles.css -w --no-source-map"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "devDependencies": {
+    "sass": "^1.105.0"
+  }
+}

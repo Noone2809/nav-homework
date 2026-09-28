@@ -1,0 +1,1 @@
+export default `<h1>Contact Page</h1><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2ucAqGFVdC68ZnKRc49l8sozcYZL9ZBkQVHHX0MikXQ&s=10" alt="Contact Image" width="300" height="200"/><h2>Welcome to the Contact Page</h2><p>lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>`

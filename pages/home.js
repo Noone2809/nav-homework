@@ -1,0 +1,1 @@
+export default `<h1>Home Page</h1><img src="https://static.vecteezy.com/vite/assets/photo-masthead-375-BoK_p8LG.webp" alt="About Image" width="300" height="200"/><h2>Welcome to the Home Page</h2><p>lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>`
